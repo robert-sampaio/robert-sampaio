@@ -1,7 +1,7 @@
 ### Hi Devs, I'm Robert! 👋
 
 - 🌱 I am improving my knowledge in HTML, CSS and JS
-- 📫 How to reach me: robertsampaio213@gmail.com
+- 📫 How to reach me: robertfqsampaio@gmail.com
 
 <div align="center">
   <a href="https://github.com/robert-sampaio">
