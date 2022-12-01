@@ -1,6 +1,7 @@
 ### Hi Devs, I'm Robert! 👋
 
-- 🌱 I am improving my knowledge in HTML, CSS and JS
+- 🌱 I am improving my knowledge in React!
+- 👨‍💻 Dev Front-End
 - 📫 How to reach me: robertfqsampaio@gmail.com
 
 <div align="center">
