@@ -14,7 +14,7 @@
   
 <div>
   <a href="https://www.instagram.com/robertfqsampaio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/robertfqsampaio/](https://www.linkedin.com/in/robert-fran%C3%A7a-696ba8246/)" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230000ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robert-fran%C3%A7a-696ba8246/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230000ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:robertfqsampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
