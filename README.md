@@ -1,4 +1,4 @@
-### Hi Devs, I'm Robert! 👋
+### Hi Devs, I'm Robert! 👋🪐
 
 - 🌱 I am improving my knowledge in React!
 - 👨‍💻 Dev Front-End
