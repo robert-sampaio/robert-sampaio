@@ -1,6 +1,6 @@
 ### Hi Devs, I'm Robert Sampaio! 👋🪐
 
-- 👨‍💻 Dev Front-End
+- 👨‍💻 Dev Jr
 - 🌱 I want to learn new languages, nowadays I'm learning about Python and C#.
 - 📫 How to reach me: robertfqsampaio@gmail.com
 
