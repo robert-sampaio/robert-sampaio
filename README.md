@@ -1,7 +1,7 @@
 ### Hi Devs, I'm Robert Sampaio! 👋🪐
 
 - 👨‍💻 Dev Jr
-- 🌱 I want to learn new languages, nowadays I'm learning about Python (automations) and C#.
+- 🌱 I want to learn new languages, nowadays I'm learning about Python and C#.
 - 📫 How to reach me: robertfqsampaio@gmail.com
 
   ##  
