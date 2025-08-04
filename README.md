@@ -1,4 +1,6 @@
-### Hi Devs, I'm Robert Sampaio! 👋🪐
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=939&height=120&section=header"/>
+
+<h1>Hi Devs, I'm Robert Sampaio! 👋🪐</h1>
 
 - 👨‍💻 Dev Jr
 - 🌱 I want to learn new languages, nowadays I'm learning about Python(automations) and C#.
