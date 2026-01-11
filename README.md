@@ -2,26 +2,9 @@
 
 <h1>Hi Devs, I'm Robert Sampaio! 👋🪐</h1>
 
-- 👨‍💻 Dev Jr
-- 🌱 I want to learn new languages, nowadays I'm learning about Python(automations) and C#.
+- 👨‍💻 Software Developer | React, Next.js & Python Automation | Co-founder experience.
 - 📫 How to reach me: robertfqsampaio@gmail.com
 
-  ##  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robert-sampaio&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robert-sampaio&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
- <div  align="center" style="margin-bottom:100px">
-    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=robert-sampaio&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=robert-sampaio&show_icons=true&theme=radical&layout=compact" />
- </div>
-
-&nbsp;
- 
-  <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=robert-sampaio&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
-  </div>
-
-&nbsp;
 &nbsp;
 
 ## My Skills
